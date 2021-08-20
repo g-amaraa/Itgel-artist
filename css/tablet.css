@@ -1,0 +1,68 @@
+#header-logo {
+  float: none;
+  display: block;
+  margin: auto;
+}
+
+ul {
+  padding: 0.25rem;
+  margin: 0.25rem;
+}
+h2 {
+  margin: 1rem;
+  line-height: 1.25;
+}
+#info-header {
+  float: none;
+  display: block;
+}
+
+#header-contact {
+  margin: 0 0.25rem;
+}
+
+#navbar {
+  float: none;
+  text-align: center;
+}
+
+#showcase {
+  height: calc(960px * 9 / 16);
+}
+
+#advice-section {
+  display: block;
+  text-align: center;
+  margin: 0.75rem;
+}
+
+.showcase-text {
+  top: 10%;
+  left: 1rem;
+  width: 60%;
+}
+
+.bar {
+  width: 2rem;
+  height: 11px;
+}
+
+#about-me {
+  display: block;
+}
+
+#contact #address {
+  display: block;
+}
+#address div {
+  display: block;
+  height: 75vw;
+}
+
+#address #our-history {
+  height: 100%;
+}
+
+.box {
+  flex-basis: calc(50% - 8px);
+}

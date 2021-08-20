@@ -1,0 +1,52 @@
+h2 {
+  margin: 0.5rem;
+  line-height: 1;
+}
+
+iframe {
+  width: 336px;
+  height: 189px;
+}
+
+#header-contact {
+  display: block;
+  margin: 0.5rem;
+  text-align: center;
+}
+
+#navbar ul li {
+  display: block;
+  text-align: center;
+  padding: 0.4rem;
+}
+
+#showcase {
+  height: calc(960px * 9 / 16);
+}
+
+#advice-section {
+  display: block;
+  text-align: center;
+  margin: 0.75rem;
+}
+
+.showcase-text {
+  top: 10%;
+  left: 1rem;
+  width: 60%;
+}
+
+.bar {
+  width: 1.5rem;
+  height: 10px;
+}
+
+#address div {
+  height: 125vw;
+}
+
+.box {
+  display: block;
+  flex: none;
+  width: 100%;
+}
